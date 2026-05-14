@@ -1,5 +1,5 @@
 # 💬 LiveChat v2 – Chat en tiempo real con archivos
-
+# Santiago Contreras - Wilber David Loaiza - Juan Manuel Perez Reyes
 ## 🚀 Instalación
 
 ```bash
